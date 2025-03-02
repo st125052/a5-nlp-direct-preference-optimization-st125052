@@ -91,9 +91,8 @@ The following describes the key points of the hosting discussion.
 >> - **Performance:** Cloudflare’s CDN reduces load times by caching content globally, while DigitalOcean offers scalable hosting resources.
 >> - **Reliability:** The combination of GoDaddy, Cloudflare, and DigitalOcean ensures the website is always accessible, with optimized DNS resolution and robust hosting.
 
-
-
 # Demo
+https://github.com/user-attachments/assets/115e21e7-bb06-4970-828d-1dc7dcc3e51b
 
 
 # Access The Final Website
