@@ -45,7 +45,9 @@ The `model.generate(**inputs, max_length=100)` function generates text using the
 [Analysis Metrics](https://github.com/st125052/a5-nlp-direct-preference-optimization-st125052/blob/main/notebooks/pdfs/Training%20Metrics%20Based%20on%20Hyperparameter%20Experimentation.pdf)
 
 ## Uploading The Model To Hugging Face
-The model was then uploaded to HuggingFace to run inference via the HuggingFace Transformers library in Python. The visibility of the model was kept public for open-source access to you.
+
+The model was then uploaded to HuggingFace to run inference via the HuggingFace Transformers library in Python. The visibility of the model was kept public for open-source access.
+
 [Check out the model](https://huggingface.co/st125052/a5-dpo)
 
 # Website Creation
