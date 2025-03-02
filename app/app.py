@@ -1,6 +1,6 @@
 from flask import Flask, request, send_from_directory, jsonify
 from flask_cors import CORS
-from app.classes.generate_prompt import *
+from classes.generate_prompt import get_prediction
 
 # Create the Flask app
 app = Flask(__name__, static_folder='./static', static_url_path='')
